@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aleksskay2/react-movies/static/css/main.954e7325.css",
+    "main.js": "/aleksskay2/react-movies/static/js/main.d2d22e2a.js",
+    "index.html": "/aleksskay2/react-movies/index.html",
+    "main.954e7325.css.map": "/aleksskay2/react-movies/static/css/main.954e7325.css.map",
+    "main.d2d22e2a.js.map": "/aleksskay2/react-movies/static/js/main.d2d22e2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.954e7325.css",
+    "static/js/main.d2d22e2a.js"
+  ]
+}
